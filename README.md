@@ -1,4 +1,4 @@
-g### Hi there 👋
+ Hi there 👋
 
 ✨Azim-Mia/Azim-Mia 
  🔭 
@@ -9,4 +9,5 @@ g### Hi there 👋
 📫 
 😄 
 ⚡ 
-hhhhhhhh
+<img src="./azim.jpg" alt="photos"/>
+
