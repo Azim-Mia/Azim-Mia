@@ -19,10 +19,22 @@ Azim-Mia/README.md....
 <h3> Express.js</h3>  
 <h3>Atlas Cloud </h3>
 <h1>Eucation:</h1>  
-<table border="1px>
- <tr>
-  <td>Azim</td>
- </tr>
+<table style="width:100%">
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
 </table>
  <i  style="color:red" class="fa-solid fa-database  fa-1x">MongoDB</i>
  <h1>Information gmail: mdazimmia01980@gmail.com</h1>   
