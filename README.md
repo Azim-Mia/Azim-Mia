@@ -8,13 +8,13 @@ Azim-Mia/README.md....
  <hr/>    
  <h2>A full time content creator on & web developer</h2>
  <h3>I live in Bangladesh</h3>  
- <b style="font-size:6rem" color:red;">👮 About me</b>   
- <h1 style='font-size:3rem'>My experience of web application developer  in all country</h1>  
-<h2 style="font-size:3rem"> My Experience Language..</h2>   
-<i style="color:red" class="fa fa-facebook">HTML5</i> 
- <i  style="color:red" class="fa-brands fa-css3-alt fa-1x">CSS and TailwindCss</i>   
- <i  style="color:red" class="fa-brands fa-react fa-1x"> React.js</i>
-<i  style="color:red" class="fa-brands fa-js fa-1x">javaScript</i> 
+ <h1 >👮 About me</h1>   
+ <h1 >My experience of web application developer  in all country</h1>  
+<h2 > My Experience Language..</h2>   
+<i class="fa fa-facebook">HTML5</i> 
+ <i">CSS and TailwindCss</i>   
+ <i> React.js</i>
+<i>javaScript</i> 
  <i  style="color:red" class="fa-solid fa-database  fa-1x">MongoDB</i>
  <h1>Information gmail: mdazimmia01980@gmail.com</h1>   
  
