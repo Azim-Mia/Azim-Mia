@@ -7,7 +7,7 @@ Azim-Mia/README.md....
  <hr/>    
  <h2>A full time content creator on & web developer</h2>
  <h3>I live in Bangladesh</h3>  
- <h1 style="background:blue;">👮 About me</h1>   
+ <h1 style="background:blue">👮 About me</h1>   
  <h1 >My experience of web application developer  in all country</h1>  
 <h2 > My Experience Language..</h2>   
 <h3 class="fa fa-facebook">HTML5,</h3>   
@@ -28,12 +28,32 @@ Azim-Mia/README.md....
   <tr>
     <td>Business Study</td>
     <td>Business Study</td>
-    <td>Business Study</td>
+    <td>BSS Study</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <th>Font-Language</th>
+    <th>Backend-Language</th>
+    <th>Cloud</th>
+  </tr>
+ <tr>
+    <td>React.js</td>
+    <td>Express.js</td>
+    <td>atlas cloud</td>
+  </tr>
+ <tr>
+    <td>javascript.js</td>
+    <td>Node.js</td>
+    <td>atlas cloud</td>
+  </tr>
+ <tr>
+    <td>jquery.js</td>
+    <td>ejs.js</td>
+    <td>atlas cloud</td>
+  </tr>
+ <tr>
+    <td>css/tailwindCss</td>
+    <td>MongoDB</td>
+    <td>atlas cloud</td>
   </tr>
 </table>
  <i  style="color:red" class="fa-solid fa-database  fa-1x">MongoDB</i>
