@@ -18,7 +18,7 @@ Azim-Mia/README.md....
 <h3>mongoDB</h3>  
 <h3> Express.js</h3>  
 <h3>Atlas Cloud </h3>
-<h1>Eucation:</h1>  
+<h1>Education:</h1>  
 <table style="width:100%">
   <tr>
     <th>SSC</th>
@@ -56,6 +56,8 @@ Azim-Mia/README.md....
     <td>atlas cloud</td>
   </tr>
 </table>
+<h1>Description:</h1>  
+<p></p>
  <i  style="color:red" class="fa-solid fa-database  fa-1x">MongoDB</i>
  <h1>Information gmail: mdazimmia01980@gmail.com</h1>   
  
