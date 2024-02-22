@@ -17,6 +17,13 @@ Azim-Mia/README.md....
 <h3>Node.js,</h3>  
 <h3>mongoDB</h3>  
 <h3> Express.js</h3>  
+<h3>Atlas Cloud </h3>
+<h1>Eucation:</h1>  
+<table border="1px>
+ <tr>
+  <td>Azim</td>
+ </tr>
+</table>
  <i  style="color:red" class="fa-solid fa-database  fa-1x">MongoDB</i>
  <h1>Information gmail: mdazimmia01980@gmail.com</h1>   
  
