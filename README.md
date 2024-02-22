@@ -21,14 +21,14 @@ Azim-Mia/README.md....
 <h1>Eucation:</h1>  
 <table style="width:100%">
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>SSC</th>
+    <th>HSC</th>
+    <th>BSS</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Business Study</td>
+    <td>Business Study</td>
+    <td>Business Study</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
