@@ -10,10 +10,13 @@ Azim-Mia/README.md....
  <h1 style="background:blue;">👮 About me</h1>   
  <h1 >My experience of web application developer  in all country</h1>  
 <h2 > My Experience Language..</h2>   
-<i class="fa fa-facebook">HTML5</i> 
-<i">CSS and TailwindCss</i>   
- <i> React.js</i>
-<i>javaScript</i> 
+<h3 class="fa fa-facebook">HTML5,</h3>   
+<h3>CSS and TailwindCss,</h3>       
+ <h3> React.js,</h3>  
+<h3>javaScrip,t</h3>   
+<h3>Node.js,</h3>  
+<h3>mongoDB</h3>  
+<h3> Express.js</h3>  
  <i  style="color:red" class="fa-solid fa-database  fa-1x">MongoDB</i>
  <h1>Information gmail: mdazimmia01980@gmail.com</h1>   
  
