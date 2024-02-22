@@ -57,7 +57,7 @@ Azim-Mia/README.md....
   </tr>
 </table>
 <h1>Description:</h1>  
-<p>I am a passionate computer web application developer. I an working service programming  Item, web development. I can nice project handle, remote project handle.My experience 4th years. All time work backend and fontent</p>  
+<p>I am a passionate web application developer. I am working service programming  Item, web development. I can nice project handle, remote project handle.My experience 4th years. All time work backend and fontent</p>  
  <h1>Information gmail: mdazimmia01980@gmail.com</h1>   
 <h2>https://www.youtube.com/@azim703</h2>  
 
