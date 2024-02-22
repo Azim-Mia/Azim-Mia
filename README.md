@@ -57,10 +57,9 @@ Azim-Mia/README.md....
   </tr>
 </table>
 <h1>Description:</h1>  
-<p></p>
- <i  style="color:red" class="fa-solid fa-database  fa-1x">MongoDB</i>
+<p>I am a passionate computer web application developer. I an working service programming  Item, web development. I can nice project handle, remote project handle.My experience 4th years. All time work backend and fontent</p>  
  <h1>Information gmail: mdazimmia01980@gmail.com</h1>   
- 
 <h2>https://www.youtube.com/@azim703</h2>  
 
 <h2>https://www.facebook.com/smazim.islam.08</h2>
+<b>Thanks for going through my Portfolio. All rights reserved by Azim Mia @2023</b>
