@@ -1,11 +1,9 @@
 <h2>Hi there 👋</h2>  
 <h1>I am web developer...</h1>
-Azim-Mia/README.md....  
-💬 📫 😄 ⚡ 
 <img src="./azim.jpg" alt="photos"/>
 <h1 style="color:blue; background:pink;"> 👋Hello, I'm Azim Islam </h1> 
  <hr/>    
- <h2>A full time content creator on & web developer</h2>
+ <h2>I am full time content creator on & web developer</h2>
  <h3>I live in Bangladesh</h3>  
  <h1 style="background:blue">👮 About me</h1>   
  <h1></h1>  
@@ -54,8 +52,8 @@ Azim-Mia/README.md....
 </table>
 <h1>Description:</h1>  
 <p>I am a passionate web application developer. I am working service programming  Item, web development. I can nice project handle, remote project handle.My experience 4th years. All time work Backend and Fontend</p>  
- <h1>Information gmail: mdazimmia01980@gmail.com</h1>   
+<h1>Contract me:</h1>  
+ <h2>mdazimmia01980@gmail.com</h2>     
 <h2>https://www.youtube.com/@azim703</h2>  
-
 <h2>https://www.facebook.com/smazim.islam.08</h2>
 <b>Thanks for going through my Portfolio. All rights reserved by Azim Mia @2023</b>
