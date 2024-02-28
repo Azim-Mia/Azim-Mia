@@ -21,19 +21,12 @@ Azim-Mia/README.md....
 <h1>Education:</h1>  
 <table style="width:100%">
   <tr>
-    <th>SSC</th>
-    <th>HSC</th>
-    <th>BSS</th>
-  </tr>
-  <tr>
-    <td>Business Study</td>
-    <td>Business Study</td>
-    <td>BSS Study</td>
-  </tr>
-  <tr>
-    <th>Font-Language</th>
-    <th>Backend-Language</th>
-    <th>Cloud</th>
+    <th>Fontend</th>
+   <th>Experience</th>
+    <th>Backend</th>
+    <th>Experience</th>
+   <th>Stylesheet</th>
+   <th>Experience</th>
   </tr>
  <tr>
     <td>React.js</td>
