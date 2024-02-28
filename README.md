@@ -3,10 +3,10 @@
 <img src="./azim.jpg" alt="photos"/>
 <h1 style="color:blue; background:pink;"> 👋Hello, I'm Azim Islam </h1> 
  <hr/>    
- <h2>I am full time content creator on & web developer</h2>
+ <h2>I am Full time Content creator on Web Developer</h2>
  <h3>I live in Bangladesh</h3>  
- <h1 style="background:blue">👮 About me</h1>   
- <h1></h1>  
+ <h1>👮 About me:</h1>   
+ <p></p>  
 <h2 > My Skills:</h2>   
 <table style="width:100%">
   <tr>
