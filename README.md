@@ -54,6 +54,7 @@
 <p>I am a passionate web application developer. I am working service programming  Item, web development. I can nice project handle, remote project handle.My experience 4th years. All time work Backend and Fontend</p>  
 <h1>Contract me:</h1>  
  <h2>mdazimmia01980@gmail.com</h2>     
-<h2>https://www.youtube.com/@azim703</h2>  
+<h2>https://www.linkedin.com/in/
+azim-mia-3b31a52ab</h2>  
 <h2>https://www.facebook.com/smazim.islam.08</h2>
 <b>Thanks for going through my Portfolio. All rights reserved by Azim Mia @2023</b>
