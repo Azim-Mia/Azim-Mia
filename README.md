@@ -24,32 +24,32 @@ Azim-Mia/README.md....
   <td>4 Years</td>
   <td>node.js</td>
   <td>3 Years</td>
-    <td>Express.js</td>
-    <td>atlas cloud</td>
+    <td>css</td>
+    <td>4 Years</td>
   </tr>
  <tr>
-  <td>React.js</td>
-  <td>React.js</td>
-  <td>React.js</td>
-    <td>javascript.js</td>
-    <td>Node.js</td>
-    <td>atlas cloud</td>
+  <td>HTML5.js</td>
+  <td>4 Years</td>
+  <td>node.js</td>
+  <td>3 Years</td>
+    <td>css</td>
+    <td>4 Years</td>
   </tr>
  <tr>
-  <td>React.js</td>
-  <td>React.js</td>
-  <td>React.js</td>
-    <td>jquery.js</td>
-    <td>ejs.js</td>
-    <td>atlas cloud</td>
+  <td>HTML5.js</td>
+  <td>4 Years</td>
+  <td>node.js</td>
+  <td>3 Years</td>
+    <td>css</td>
+    <td>4 Years</td>
   </tr>
  <tr>
-  <td>React.js</td>
-  <td>React.js</td>
-  <td>React.js</td>
-    <td>css/tailwindCss</td>
-    <td>MongoDB</td>
-    <td>atlas cloud</td>
+  <td>HTML5.js</td>
+  <td>4 Years</td>
+  <td>node.js</td>
+  <td>3 Years</td>
+    <td>css</td>
+    <td>4 Years</td>
   </tr>
 </table>
 <h1>Description:</h1>  
