@@ -1,4 +1,4 @@
-<h2>Hi there 👋</h2>  
+<h2 style="color:blue;">Hi there 👋</h2>  
 <h1>I am web developer...</h1>
 Azim-Mia/README.md....  
 💬 📫 😄 ⚡ 
