@@ -30,7 +30,7 @@ Azim-Mia/README.md....
  <tr>
   <td>React.js</td>
   <td>3 Years</td>
-  <td>mongoDB.js</td>
+  <td>mongoDB</td>
   <td>3 Years</td>
     <td>css3</td>
     <td>3 Years</td>
