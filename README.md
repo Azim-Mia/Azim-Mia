@@ -28,28 +28,28 @@ Azim-Mia/README.md....
     <td>4 Years</td>
   </tr>
  <tr>
-  <td>HTML5.js</td>
-  <td>4 Years</td>
-  <td>node.js</td>
+  <td>React.js</td>
   <td>3 Years</td>
-    <td>css</td>
-    <td>4 Years</td>
+  <td>mongoDB.js</td>
+  <td>3 Years</td>
+    <td>css3</td>
+    <td>3 Years</td>
   </tr>
  <tr>
-  <td>HTML5.js</td>
-  <td>4 Years</td>
-  <td>node.js</td>
+  <td>jquery.js</td>
+  <td>2 Years</td>
+  <td>Express.js</td>
   <td>3 Years</td>
-    <td>css</td>
-    <td>4 Years</td>
+    <td>tailwindcss</td>
+    <td>1 Years</td>
   </tr>
  <tr>
-  <td>HTML5.js</td>
-  <td>4 Years</td>
-  <td>node.js</td>
-  <td>3 Years</td>
-    <td>css</td>
-    <td>4 Years</td>
+  <td>ejs.js</td>
+  <td>1 Years</td>
+  <td>mongoose</td>
+  <td>2 Years</td>
+    <td>bootstrap</td>
+    <td>1 Years</td>
   </tr>
 </table>
 <h1>Description:</h1>  
