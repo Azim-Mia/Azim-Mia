@@ -28,7 +28,7 @@ Azim-Mia/README.md....
     <td>4 Years</td>
   </tr>
  <tr>
-  <td>React.js</td>
+  <td>javaScript.js</td>
   <td>3 Years</td>
   <td>mongoDB</td>
   <td>3 Years</td>
@@ -36,7 +36,7 @@ Azim-Mia/README.md....
     <td>3 Years</td>
   </tr>
  <tr>
-  <td>jquery.js</td>
+  <td>React.js</td>
   <td>2 Years</td>
   <td>Express.js</td>
   <td>3 Years</td>
@@ -44,7 +44,7 @@ Azim-Mia/README.md....
     <td>1 Years</td>
   </tr>
  <tr>
-  <td>ejs.js</td>
+  <td>jquery/ejs.js</td>
   <td>1 Years</td>
   <td>mongoose</td>
   <td>2 Years</td>
