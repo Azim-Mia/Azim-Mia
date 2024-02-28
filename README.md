@@ -20,10 +20,10 @@ Azim-Mia/README.md....
    <th>Experience</th>
   </tr>
  <tr>
-    <td>React.js</td>
-  <td>React.js</td>
-  <td>React.js</td>
-  <td>React.js</td>
+    <td>HTML5.js</td>
+  <td>4 Years</td>
+  <td>node.js</td>
+  <td>3 Years</td>
     <td>Express.js</td>
     <td>atlas cloud</td>
   </tr>
