@@ -10,7 +10,7 @@
 <h2 > My Skills:</h2>   
 <table style="width:100%">
   <tr>
-    <th>Fontend</th>
+    <th>Frontend</th>
    <th>Experience</th>
     <th>Backend</th>
     <th>Experience</th>
