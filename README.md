@@ -1,6 +1,6 @@
 <h2>Hi there 👋</h2>  
 <h1>I am web developer...</h1>
-<img src="./azim.jpg" alt="photos"/>
+<img src="./profile.jpg" alt="photos"/>
 <h1 style="color:blue; background:pink;"> 👋Hello, I'm Azim Islam </h1> 
  <hr/>    
  <h2>A Full time Content creator on & Web Developer</h2>
