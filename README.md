@@ -2,9 +2,23 @@
 #### MERN Stack Developer
 <img src="/github.jpg" alt="photos" />
 I am Azim.I am success Web Developer.My experience 3 years over. Why Choose Me:Expertise: I have a proven track record of delivering high-quality web solutions for clients across various industries.Your satisfaction is my top priority, and I am committed to delivering results that exceed your expectations.Whether you have a clear vision for your website or need guidance and suggestions, I am here to accommodate your needs
-
-Skills: JAVASCRIPT/ REACT / CSS/ Tailwind CSS/BOOSTRAP/ NODEJS/ EXPRESS.JS/ MONGODB/ MONGOOSE/SOCKET.IO/ WEB SOCKET IO/ RESTful API /PASSPORT/JWT Authentication 
-
+<div style="background:pink;">
+<h1 style="text-align:center;">Skills: </h1>
+<ul>
+<li>JAVASCRIPT</li>
+<li>REACT</li>
+<li>CSS</li>
+<li>Tailwind CSS</li>
+<li>BOOSTRAP</li>
+<li>NODEJS</li>
+<li>EXPRESS.JS</li>
+<li>MONGODB</li>
+<li>MONGOOSE</li>
+<li>WEB SOCKET IO</li>
+<li>RESTful API</li>
+<li>PASSPORT/JWT Authentication </li>
+</ul>
+</div>
 - 🔭 I’m currently working on Github 
 - 🌱 I’m currently learning javaScript 
 - 👯 I’m looking to collaborate on Github 
