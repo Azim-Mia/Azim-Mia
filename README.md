@@ -7,6 +7,7 @@ I am Azim.I am success Web Developer.My experience 3 years over. Why Choose Me:E
 <ul>
 <li>JAVASCRIPT</li>
 <li>REACT</li>
+<li>NEXT.JS</li>
 <li>CSS</li>
 <li>Tailwind CSS</li>
 <li>BOOSTRAP</li>
